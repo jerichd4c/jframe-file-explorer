@@ -1,3 +1,5 @@
+package exploradorarchivos.core;
+
 //Librerias necesarias
 import java.awt.*;
 import java.awt.event.*;
@@ -192,8 +194,8 @@ public class FileExplorer extends  JFrame {
         JButton botonCerrar= new JButton("Cerrar");
 
         //action listener para abrir el archivo con los botones de windows
-        botonGuardar.addActionListener(e -> guardarArchivo());
         botonAbrir.addActionListener(e -> abrirArchivo());
+        botonGuardar.addActionListener(e -> guardarArchivo());
         botonCerrar.addActionListener(e -> cerrarArchivo());
 
         //se agrega a la variable de botones
