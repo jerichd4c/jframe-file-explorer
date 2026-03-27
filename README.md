@@ -1,6 +1,6 @@
 <a id="readme-top"></a>
 
-  <h3 align="center">jframe-file-explorer</h3>
+  <h3 align="center">Jframe File Explorer</h3>
 
   <p align="center">
     A minimalist Java tool for browsing and managing files using a modern JFrame graphical interface.
@@ -34,7 +34,7 @@
 
 ![File Explorer](sample_img.png)
 
-jframe-file-explorer is a lightweight, responsive Java application designed to function as a desktop file explorer. Utilizing Swing/JFrame, it offers essential functionality to open, read, display statistics, and conditionally encrypt `.txt` files directly from your workspace.
+This is a lightweight, responsive Java application designed to function as a desktop file explorer. Utilizing Swing/JFrame, it offers essential functionality to open, read, display statistics, and conditionally encrypt `.txt` files directly from your workspace.
 
 ### Built With
 
