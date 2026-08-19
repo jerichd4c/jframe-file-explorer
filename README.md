@@ -1,5 +1,11 @@
 <a id="readme-top"></a>
 
+<!-- LANGUAGE BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" width="200" height="40">
+</div>
+
+
   <h3 align="center">Jframe File Explorer</h3>
 
   <p align="center">
