@@ -1,8 +1,10 @@
 <a id="readme-top"></a>
 
-<!-- LANGUAGE BADGE -->
+<!-- PROJECT LOGO -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" width="200" height="40">
+  <a href="https://github.com/jerichd4c/jframe-file-explorer">
+    <img src="https://raw.githubusercontent.com/jerichd4c/ReflexJDBC/main/java_logo.svg" alt="Logo" width="80" height="80">
+  </a>
 </div>
 
 
